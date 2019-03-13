@@ -1,0 +1,8 @@
+Sujets de révision:
+Puissances	
+P.P.C.M et P.G.C.D
+Proportionnalité et règle de trois.
+Equation du premier degré.
+Parcours : vitesse, distance, temps.
+Organisation et gestion de données (tableaux)
+Pourcentages et échelles.
